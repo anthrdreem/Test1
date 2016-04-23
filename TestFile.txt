@@ -1,0 +1,8 @@
+<html>
+<head>
+<script>
+x=prompt("VVEDITE CHISLO");
+document.write(x);
+</script
+</head>
+</html>
