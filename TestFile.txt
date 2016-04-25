@@ -1,7 +1,7 @@
 <html>
 <head>
 <script>
-x=prompt("VVEDITE CHISLO");
+=prompt("VVEDITE CHISLO");
 document.write(x);
 </script>
 </head>
